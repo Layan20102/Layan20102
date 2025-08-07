@@ -1,61 +1,51 @@
-<!-- Typing SVG Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Layan+%F0%9F%91%8B;IT+Student+%7C+AI+Enthusiast+%7C+Data+Explorer;Building+Tech+that+Matters+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=F76D57&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Layan+%F0%9F%91%8B;AI+Explorer+%7C+Data+Thinker+%7C+Tech+Craftswoman;Always+Building+Something+Smart+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💁‍♀️ About Me
+## ✨ Who Am I?
 
-🎓 Senior Information Technology student at **King Saud University**, specializing in **Artificial Intelligence** and **Data Science**  
-💡 Passionate about turning data into decisions and building smart, intuitive solutions  
-🧠 Fascinated by LLMs and the power of natural language understanding  
-🚀 Always exploring — from neural networks to creative visualizations  
-📬 Reach me at: **Layan-20102@hotmail.com**
+> *"I don’t just write code — I translate problems into elegant, intelligent solutions."*
 
----
-
-## 💼 My Skills
-
-### 💻 Programming & Web
-`Python` • `JavaScript` • `HTML/CSS` • `SQL` • `Java` • `PHP`
-
-### 📊 Data & Visualization
-`Pandas` • `Matplotlib` • `Seaborn` • `Power BI` • `Excel` • `Jupyter Notebook`
-
-### 🤖 AI & Machine Learning
-`PyTorch` • `Hugging Face Transformers` • `scikit-learn`
-
-### 🛠️ Tools & Platforms
-`Git` • `GitHub` • `Google Colab`
+🎓 **Senior IT student** at *King Saud University*  
+🧠 Obsessed with **Artificial Intelligence**, **LLMs**, and **human-centered tech**  
+📊 I believe in the power of data to **tell stories** and **drive action**  
+💡 My mission: Build tools that make technology feel like magic  
+🧪 Currently experimenting with **PyTorch**, **Hugging Face**, and **interactive dashboards**
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 My Current Stack
+
+### 💡 Languages & Logic
+`Python` • `JavaScript` • `SQL` • `HTML/CSS` • `Java` • `PHP`
+
+### 📈 Data & AI Playground
+`Pandas` • `Seaborn` • `Matplotlib` • `scikit-learn` • `Power BI` • `Excel`  
+`Jupyter Notebook` • `PyTorch` • `Transformers (HF)`
+
+### 🛠️ Dev Tools I Love
+`Git` • `GitHub` • `Google Colab` • `VS Code`
+
+---
+
+## 📍 Projects I'm Proud Of
+> 🔬 Working on AI-powered tools that analyze data and offer smart, visual insights  
+> 🤖 Building LLM-based experiments that bring natural language to life  
+> 🧩 Focused on **usable intelligence** — not just smart, but human-aware
+
+---
+
+## 📬 Reach Me, Let’s Connect!
+
+- 🖇️ [LinkedIn](https://sa.linkedin.com/in/layan-alfawzan-217178295)  
+- 🧠 [GitHub](https://github.com/Layan20102)  
+- ✉️ Email: Layan-20102@hotmail.com  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Layan20102&show_icons=true&theme=tokyonight&hide_border=true" alt="Layan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layan20102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <em>“Code with clarity. Build with heart. Think beyond.”</em>
 </p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://sa.linkedin.com/in/layan-alfawzan-217178295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Layan20102" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="mailto:Layan-20102@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
-
-> 🌟 *Let’s turn ideas into intelligent realities!*
-
