@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Layan
 
-<!--
-**Layan20102/Layan20102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology student at King Saud University  
+💡 Passionate about AI, Data Science
+🚀 I strive to build smart, impactful solutions that improve people’s lives
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Interests
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analysis & Exploratory Data Visualization
+- 🧠 Understanding how Large Language Models (LLMs) work using PyTorch & Hugging Face
+- 🧩 Building AI tools with real-world applications, not just theory
+
+---
+
+## 🛠️ Skills
+- **Languages**: `Python`, `JavaScript`, `HTML/CSS`, `SQL`
+- **Data Tools**: `Pandas`, `Matplotlib`, `Seaborn`, `Jupyter`
+- **AI Tools**: `PyTorch`, `Hugging Face`, `scikit-learn`
+- **Others**: `Git`, `GitHub`, `Google Colab`, `Excel`, `Power BI` 
+
+---
+
+
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](#) ([Add your link here](https://sa.linkedin.com/in/layan-alfawzan-217178295))
+- 💻 [GitHub Projects](https://github.com/Layan20102)
+- 📧 Reach me via email: Layan-20102@hotmail.com
+
+---
