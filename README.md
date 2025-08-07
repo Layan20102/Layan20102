@@ -1,32 +1,31 @@
-# Hi there 👋 I'm Layan
+# 👋 Hi, I'm Layan
 
 🎓 Information Technology student at King Saud University  
-💡 Passionate about AI, Data Science
-🚀 I strive to build smart, impactful solutions that improve people’s lives
+💡 Passionate about Artificial Intelligence, Data Science, and creating impactful tech solutions  
+🚀 Dedicated to turning complex problems into intelligent, user-friendly tools
 
 ---
 
-## 💻 Technical Interests
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analysis & Exploratory Data Visualization
-- 🧠 Understanding how Large Language Models (LLMs) work using PyTorch & Hugging Face
-- 🧩 Building AI tools with real-world applications, not just theory
+## 💻 Areas of Interest
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Analysis & Exploratory Data Visualization  
+- 🧠 Large Language Models (LLMs) using PyTorch & Hugging Face  
+- 🧩 Applied AI — building tools that make a real-world difference  
 
 ---
 
-## 🛠️ Skills
-- **Languages**: `Python`, `JavaScript`, `HTML/CSS`, `SQL`
-- **Data Tools**: `Pandas`, `Matplotlib`, `Seaborn`, `Jupyter`
-- **AI Tools**: `PyTorch`, `Hugging Face`, `scikit-learn`
-- **Others**: `Git`, `GitHub`, `Google Colab`, `Excel`, `Power BI` 
+## 🛠️ Technical Skills
+- **Languages**: `Python`, `JavaScript`, `HTML/CSS`, `SQL`  , `java` , `PHP`    
+- **Data Tools**: `Pandas`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`  
+- **AI/ML Tools**: `PyTorch`, `Hugging Face`, `scikit-learn`  
+- **Other Tools**: `Git`, `GitHub`, `Google Colab`, `Excel`, `Power BI`  
 
 ---
 
-
-
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://sa.linkedin.com/in/layan-alfawzan-217178295) 
-- 💻 [GitHub Projects](https://github.com/Layan20102)
-- 📧 Reach me via email: Layan-20102@hotmail.com
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://sa.linkedin.com/in/layan-alfawzan-217178295)  
+- 💻 [GitHub](https://github.com/Layan20102)  
+- 📧 Email: Layan-20102@hotmail.com  
 
 ---
+
