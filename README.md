@@ -25,7 +25,7 @@
 
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](#) ([Add your link here](https://sa.linkedin.com/in/layan-alfawzan-217178295))
+- 💼 [LinkedIn](https://sa.linkedin.com/in/layan-alfawzan-217178295) 
 - 💻 [GitHub Projects](https://github.com/Layan20102)
 - 📧 Reach me via email: Layan-20102@hotmail.com
 
